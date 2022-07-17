@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**vholik/vholik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im viktor 🐱‍💻.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@front-end react developer.@@
++ living in wroclaw, poland.
+- 17 years old
+! software engineer, ux/ui designer
+# 📖 stack: typescript, react, redux, js, graphql, html&css
+```
+------
+[vholik](https://github.com/vholik)
+Last Edited on: 17/07/2022
